@@ -1,0 +1,6 @@
+{
+  "name": "EGYPT: The Eternal Continuity",
+  "description": "An Awwwards-inspired interactive editorial experience charting Egypt's 7,000-year continuity through kinetic typography, interactive dual-reality cursor lens, and horizontal epoch timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
